@@ -1,0 +1,197 @@
+Country,"Density
+(P/Km2)",Abbreviation,Land Area(Km2),Calling Code,Capital/Major City,Currency-Code,Largest city,Life expectancy,Minimum wage,Official language,Population,Total tax rate
+Afghanistan,60,AF,"652,230",93,Kabul,AFN,Kabul,64.5,$0.43 ,Pashto,"38,041,754",71.40%
+Albania,105,AL,"28,748",355,Tirana,ALL,Tirana,78.5,$1.12 ,Albanian,"2,854,191",36.60%
+Algeria,18,DZ,"2,381,741",213,Algiers,DZD,Algiers,76.7,$0.95 ,Arabic,"43,053,054",66.10%
+Andorra,164,AD,468,376,Andorra la Vella,EUR,Andorra la Vella,,$6.63 ,Catalan,"77,142",
+Angola,26,AO,"1,246,700",244,Luanda,AOA,Luanda,60.8,$0.71 ,Portuguese,"31,825,295",49.10%
+Antigua and Barbuda,223,AG,443,1,"St. John's, Saint John",XCD,"St. John's, Saint John",76.9,$3.04 ,English,"97,118",43.00%
+Argentina,17,AR,"2,780,400",54,Buenos Aires,ARS,Buenos Aires,76.5,$3.35 ,Spanish,"44,938,712",106.30%
+Armenia,104,AM,"29,743",374,Yerevan,AMD,Yerevan,74.9,$0.66 ,Armenian,"2,957,731",22.60%
+Australia,3,AU,"7,741,220",61,Canberra,AUD,Sydney,82.7,$13.59 ,None,"25,766,605",47.40%
+Austria,109,AT,"83,871",43,Vienna,EUR,Vienna,81.6,,German,"8,877,067",51.40%
+Azerbaijan,123,AZ,"86,600",994,Baku,AZN,Baku,72.9,$0.47 ,Azerbaijani language,"10,023,318",40.70%
+The Bahamas,39,BS,"13,880",1,"Nassau, Bahamas",,"Nassau, Bahamas",73.8,$5.25 ,English,"389,482",33.80%
+Bahrain,"2,239",BH,765,973,Manama,BHD,Riffa,77.2,,Arabic,"1,501,635",13.80%
+Bangladesh,"1,265",BD,"148,460",880,Dhaka,BDT,Dhaka,72.3,$0.51 ,Bengali,"167,310,838",33.40%
+Barbados,668,BB,430,1,Bridgetown,BBD,Bridgetown,79.1,$3.13 ,English,"287,025",35.60%
+Belarus,47,BY,"207,600",375,Minsk,BYN,Minsk,74.2,$1.49 ,Russian,"9,466,856",53.30%
+Belgium,383,BE,"30,528",32,City of Brussels,EUR,Brussels,81.6,$10.31 ,French,"11,484,055",55.40%
+Belize,17,BZ,"22,966",501,Belmopan,BZD,Belize City,74.5,$1.65 ,English,"390,353",31.10%
+Benin,108,BJ,"112,622",229,Porto-Novo,XOF,Cotonou,61.5,$0.39 ,French,"11,801,151",48.90%
+Bhutan,20,BT,"38,394",975,Thimphu,,Thimphu,71.5,$0.32 ,Dzongkha,"727,145",35.30%
+Bolivia,11,BO,"1,098,581",591,Sucre,BOB,Santa Cruz de la Sierra,71.2,$1.36 ,Spanish,"11,513,100",83.70%
+Bosnia and Herzegovina,64,BA,"51,197",387,Sarajevo,BAM,Tuzla Canton,77.3,$1.04 ,Bosnian,"3,301,000",23.70%
+Botswana,4,BW,"581,730",267,Gaborone,BWP,Gaborone,69.3,$0.29 ,English,"2,346,179",25.10%
+Brazil,25,BR,"8,515,770",55,Bras???,BRL,S????,75.7,$1.53 ,Portuguese,"212,559,417",65.10%
+Brunei,83,BN,"5,765",673,Bandar Seri Begawan,BND,,75.7,,Malay,"433,285",8.00%
+Bulgaria,64,BG,"110,879",359,Sofia,BGN,Sofia,74.9,$1.57 ,Bulgarian,"6,975,761",28.30%
+Burkina Faso,76,BF,"274,200",226,Ouagadougou,XOF,Ouagadougou,61.2,$0.34 ,French,"20,321,378",41.30%
+Burundi,463,BI,"27,830",257,Bujumbura,BIF,Bujumbura,61.2,,Kirundi,"11,530,580",41.20%
+Ivory Coast,83,CI,"322,463",225,Yamoussoukro,XOF,Abidjan,57.4,$0.36 ,French,"25,716,544",50.10%
+Cape Verde,138,CV,"4,033",238,Praia,CVE,Praia,72.8,$0.68 ,Portuguese,"483,628",37.50%
+Cambodia,95,KH,"181,035",855,Phnom Penh,,Phnom Penh,69.6,,Khmer language,"16,486,542",23.10%
+Cameroon,56,CM,"475,440",237,Yaound?,XAF,Douala,58.9,$0.35 ,French,"25,876,380",57.70%
+Canada,4,CA,"9,984,670",1,Ottawa,CAD,Toronto,81.9,$9.51 ,French,"36,991,981",24.50%
+Central African Republic,8,CF,"622,984",236,Bangui,,Bangui,52.8,$0.37 ,French,"4,745,185",73.30%
+Chad,13,TD,"1,284,000",235,N'Djamena,XAF,N'Djamena,54,$0.60 ,French,"15,946,876",63.50%
+Chile,26,CL,"756,096",56,Santiago,CLP,Santiago,80,$2.00 ,Spanish,"18,952,038",34.00%
+China,153,CN,"9,596,960",86,Beijing,CNY,Shanghai,77,$0.87 ,Standard Chinese,"1,397,715,000",59.20%
+Colombia,46,CO,"1,138,910",57,Bogot?,COP,Bogot?,77.1,$1.23 ,Spanish,"50,339,443",71.20%
+Comoros,467,KM,"2,235",269,"Moroni, Comoros",KMF,"Moroni, Comoros",64.1,$0.71 ,French,"850,886",219.60%
+Republic of the Congo,16,,"342,000",242,Brazzaville,XAF,Brazzaville,64.3,$0.88 ,French,"5,380,508",54.30%
+Costa Rica,100,CR,"51,100",506,San Jos??????,CRC,San Jos??????,80.1,$1.84 ,Spanish,"5,047,561",58.30%
+Croatia,73,HR,"56,594",385,Zagreb,HRK,Zagreb,78.1,$2.92 ,Croatian,"4,067,500",20.50%
+Cuba,106,CU,"110,860",53,Havana,CUP,Havana,78.7,$0.05 ,Spanish,"11,333,483",
+Cyprus,131,CY,"9,251",357,Nicosia,EUR,Statos???????,80.8,,Greek,"1,198,575",22.40%
+Czech Republic,139,CZ,"78,867",420,Prague,CZK,Prague,79,$3.00 ,Czech,"10,669,709",46.10%
+Democratic Republic of the Congo,40,CD,"2,344,858",243,Kinshasa,CDF,Kinshasa,60.4,$0.18 ,French,"86,790,567",50.70%
+Denmark,137,DK,"43,094",45,Copenhagen,DKK,Copenhagen,81,,Danish,"5,818,553",23.80%
+Djibouti,43,DJ,"23,200",253,Djibouti City,DJF,Djibouti City,66.6,,French,"973,560",37.90%
+Dominica,96,DM,751,1,Roseau,XCD,Roseau,76.6,$1.48 ,English,"71,808",32.60%
+Dominican Republic,225,DO,"48,670",1,Santo Domingo,DOP,Santo Domingo,73.9,$0.40 ,Spanish,"10,738,958",48.80%
+Ecuador,71,EC,"283,561",593,Quito,USD,Quito,76.8,$2.46 ,Spanish,"17,373,662",34.40%
+Egypt,103,EG,"1,001,450",20,Cairo,EGP,Cairo,71.8,,Modern Standard Arabic,"100,388,073",44.40%
+El Salvador,313,SV,"21,041",503,San Salvador,,San Salvador,73.1,$0.50 ,Spanish,"6,453,553",36.40%
+Equatorial Guinea,50,GQ,"28,051",240,Malabo,XAF,Malabo,58.4,$1.05 ,Spanish,"1,355,986",79.40%
+Eritrea,35,ER,"117,600",291,Asmara,ERN,Asmara,65.9,,Tigrinya,"6,333,135",83.70%
+Estonia,31,EE,"45,228",372,Tallinn,EUR,Tallinn,78.2,$3.14 ,Estonian,"1,331,824",47.80%
+Eswatini,67,,"17,364",268,Mbabane,,Mbabane,,,English,"1,093,238",
+Ethiopia,115,ET,"1,104,300",251,Addis Ababa,ETB,Addis Ababa,66.2,,Amharic,"112,078,730",37.70%
+Fiji,49,FJ,"18,274",679,Suva,FJD,Suva,67.3,$1.28 ,Fiji Hindi,"889,953",32.10%
+Finland,18,FI,"338,145",358,Helsinki,EUR,Helsinki,81.7,,Swedish,"5,520,314",36.60%
+France,119,FR,"643,801",33,Paris,EUR,Paris,82.5,$11.16 ,French,"67,059,887",60.70%
+Gabon,9,GA,"267,667",241,Libreville,XAF,Libreville,66.2,$1.46 ,French,"2,172,579",47.10%
+The Gambia,239,GM,"11,300",220,Banjul,GMD,Serekunda,61.7,$0.13 ,English,"2,347,706",48.40%
+Georgia,57,GE,"69,700",995,Tbilisi,GEL,Tbilisi,73.6,$0.05 ,Georgian,"3,720,382",9.90%
+Germany,240,DE,"357,022",49,Berlin,EUR,Berlin,80.9,$9.99 ,German,"83,132,799",48.80%
+Ghana,137,GH,"238,533",233,Accra,GHS,Accra,63.8,$0.27 ,English,"30,792,608",55.40%
+Greece,81,GR,"131,957",30,Athens,EUR,Macedonia,81.3,$4.46 ,Greek,"10,716,322",51.90%
+Grenada,331,GD,349,1,"St. George's, Grenada",XCD,"St. George's, Grenada",72.4,,English,"112,003",47.80%
+Guatemala,167,GT,"108,889",502,Guatemala City,GTQ,Guatemala City,74.1,$1.60 ,Spanish,"16,604,026",35.20%
+Guinea,53,GN,"245,857",224,Conakry,GNF,Kankan,61.2,,French,"12,771,246",69.30%
+Guinea-Bissau,70,GW,"36,125",245,Bissau,XOF,Bissau,58,$0.16 ,Portuguese,"1,920,922",45.50%
+Guyana,4,GY,"214,969",592,"Georgetown, Guyana",GYD,"Georgetown, Guyana",69.8,$0.98 ,English,"782,766",30.60%
+Haiti,414,HT,"27,750",509,Port-au-Prince,HTG,Port-au-Prince,63.7,$0.25 ,French,"11,263,077",42.70%
+Vatican City,"2,003",,0,379,Vatican City,EUR,,,,Italian,836,
+Honduras,89,HN,"112,090",504,Tegucigalpa,HNL,Tegucigalpa,75.1,$1.01 ,Spanish,"9,746,117",39.10%
+Hungary,107,HU,"93,028",36,Budapest,HUF,Budapest,75.8,$2.62 ,Hungarian,"9,769,949",37.90%
+Iceland,3,IS,"103,000",354,Reykjav??,ISK,Reykjav??,82.7,,Icelandic,"361,313",31.90%
+India,464,IN,"3,287,263",91,New Delhi,INR,Kurebhar,69.4,$0.30 ,Hindi,"1,366,417,754",49.70%
+Indonesia,151,ID,"1,904,569",62,Jakarta,IDR,Kalimantan,71.5,$0.48 ,Indonesian,"270,203,917",30.10%
+Iran,52,IR,"1,648,195",98,Tehran,IRR,Tehran,76.5,$1.58 ,Persian,"82,913,906",44.70%
+Iraq,93,IQ,"438,317",964,Baghdad,IQD,Baghdad,70.5,$1.24 ,Arabic,"39,309,783",30.80%
+Republic of Ireland,72,,"70,273",353,Dublin,EUR,Connacht,82.3,$10.79 ,Irish,"5,007,069",26.10%
+Israel,400,IL,"20,770",972,Jerusalem,ILS,Jerusalem,82.8,$7.58 ,Hebrew,"9,053,300",25.30%
+Italy,206,IT,"301,340",39,Rome,EUR,Rome,82.9,,Italian,"60,297,396",59.10%
+Jamaica,273,JM,"10,991",1876,"Kingston, Jamaica",JMD,"Kingston, Jamaica",74.4,$1.33 ,Jamaican English,"2,948,279",35.10%
+Japan,347,JP,"377,944",81,Tokyo,,Tokyo,84.2,$6.77 ,None,"126,226,568",46.70%
+Jordan,115,JO,"89,342",962,Amman,JOD,Amman,74.4,$1.49 ,Arabic,"10,101,694",28.60%
+Kazakhstan,7,KZ,"2,724,900",7,Astana,KZT,Almaty,73.2,$0.41 ,Russian,"18,513,930",28.40%
+Kenya,94,KE,"580,367",254,Nairobi,KES,Nairobi,66.3,$0.25 ,Swahili,"52,573,973",37.20%
+Kiribati,147,KI,811,686,South Tarawa,AUD,South Tarawa,68.1,,English,"117,606",32.70%
+Kuwait,240,KW,"17,818",965,Kuwait City,KWD,Kuwait City,75.4,$0.95 ,Modern Standard Arabic,"4,207,083",13.00%
+Kyrgyzstan,34,KG,"199,951",996,Bishkek,KGS,Bishkek,71.4,$0.09 ,Russian,"6,456,900",29.00%
+Laos,32,LA,"236,800",856,Vientiane,LAK,Vientiane,67.6,$0.83 ,Lao,"7,169,455",24.10%
+Latvia,30,LV,"64,589",371,Riga,EUR,Riga,74.7,$2.80 ,Latvian,"1,912,789",38.10%
+Lebanon,667,LB,"10,400",961,Beirut,LBP,"Tripoli, Lebanon",78.9,$2.15 ,Arabic,"6,855,713",32.20%
+Lesotho,71,LS,"30,355",266,Maseru,,Maseru,53.7,$0.41 ,English,"2,125,268",13.60%
+Liberia,53,LR,"111,369",231,Monrovia,,Monrovia,63.7,$0.17 ,English,"4,937,374",46.20%
+Libya,4,LY,"1,759,540",218,,LYD,,72.7,$1.88 ,Arabic,"6,777,452",32.60%
+Liechtenstein,238,LI,160,423,Vaduz,CHF,Schaan,83,,German,"38,019",21.60%
+Lithuania,43,LT,"65,300",370,Vilnius,EUR,Vilnius,75.7,$2.41 ,Lithuanian,"2,786,844",42.60%
+Luxembourg,242,LU,"2,586",352,Luxembourg City,EUR,Luxembourg City,82.1,$13.05 ,Luxembourgish,"645,397",20.40%
+Madagascar,48,MG,"587,041",261,Antananarivo,MGA,Antananarivo,66.7,$0.21 ,French,"26,969,307",38.30%
+Malawi,203,MW,"118,484",265,Lilongwe,MWK,Lilongwe,63.8,$0.12 ,English,"18,628,747",34.50%
+Malaysia,99,MY,"329,847",60,Kuala Lumpur,MYR,Johor Bahru,76,$0.93 ,Malaysian language,"32,447,385",38.70%
+Maldives,"1,802",MV,298,960,Mal?,,Mal?,78.6,,Divehi,"530,953",30.20%
+Mali,17,ML,"1,240,192",223,Bamako,XOF,Bamako,58.9,$0.23 ,French,"19,658,031",54.50%
+Malta,"1,380",MT,316,356,Valletta,EUR,Birkirkara,82.3,$5.07 ,Maltese,"502,653",44.00%
+Marshall Islands,329,MH,181,692,Majuro,USD,Majuro,65.2,$2.00 ,Marshallese,"58,791",65.90%
+Mauritania,5,MR,"1,030,700",222,Nouakchott,MRU,Nouakchott,64.7,$0.53 ,Arabic,"4,525,696",67.00%
+Mauritius,626,MU,"2,040",230,Port Louis,MUR,Port Louis,74.4,$0.38 ,French,"1,265,711",22.20%
+Mexico,66,MX,"1,964,375",52,Mexico City,MXN,Mexico City,75,$0.49 ,None,"126,014,024",55.10%
+Federated States of Micronesia,784,FM,702,691,Palikir,USD,Palikir,67.8,,English,"113,815",60.50%
+Moldova,123,MD,"33,851",373,Chi????,MDL,Chi????,71.8,$0.31 ,Romanian,"2,657,637",38.70%
+Monaco,"26,337",MC,2,377,Monaco City,EUR,Monaco City,,$11.72 ,French,"38,964",
+Mongolia,2,MN,"1,564,116",976,Ulaanbaatar,MNT,Ulaanbaatar,69.7,$0.65 ,Mongolian,"3,225,167",25.70%
+Montenegro,47,ME,"13,812",382,Podgorica,EUR,Podgorica,76.8,$1.23 ,Montenegrin language,"622,137",22.20%
+Morocco,83,MA,"446,550",212,Rabat,MAD,Casablanca,76.5,$1.60 ,Arabic,"36,910,560",45.80%
+Mozambique,40,MZ,"799,380",258,Maputo,MZN,Maputo,60.2,$0.27 ,Portuguese,"30,366,036",36.10%
+Myanmar,83,MM,"676,578",95,Naypyidaw,MMK,Yangon,66.9,$0.39 ,Burmese,"54,045,420",31.20%
+Namibia,3,,"824,292",264,Windhoek,,Windhoek,63.4,,English,"2,494,530",20.70%
+Nauru,541,NR,21,674,Yaren District,AUD,,,,English,"10,084",
+Nepal,203,NP,"147,181",977,Kathmandu,NPR,Kathmandu,70.5,$0.36 ,Nepali,"28,608,710",41.80%
+Netherlands,508,NL,"41,543",31,Amsterdam,,Amsterdam,81.8,$10.29 ,Dutch,"17,332,850",41.20%
+New Zealand,18,NZ,"268,838",64,Wellington,NZD,Auckland,81.9,$11.49 ,English,"4,841,000",34.60%
+Nicaragua,55,NI,"130,370",505,Managua,NIO,Managua,74.3,$0.54 ,Spanish,"6,545,502",60.60%
+Niger,19,NE,"1,267,000",227,Niamey,XOF,Niamey,62,$0.29 ,French,"23,310,715",47.20%
+Nigeria,226,NG,"923,768",234,Abuja,NGN,Lagos,54.3,$0.54 ,English,"200,963,599",34.80%
+North Korea,214,KP,"120,538",850,Pyongyang,KPW,Pyongyang,72.1,,Korean,"25,666,161",
+North Macedonia,83,,"25,713",389,Skopje,MKD,Skopje,,,Macedonian,"1,836,713",
+Norway,15,NO,"323,802",47,Oslo,NOK,Oslo,82.8,,Norwegian,"5,347,896",36.20%
+Oman,16,OM,"309,500",968,Muscat,OMR,Seeb,77.6,$4.33 ,Arabic,"5,266,535",27.40%
+Pakistan,287,PK,"796,095",92,Islamabad,PKR,Karachi,67.1,$0.69 ,Urdu,"216,565,318",33.90%
+Palau,39,PW,459,680,Ngerulmud,USD,Koror,69.1,$3.00 ,English,"18,233",76.60%
+Palestinian National Authority,847,,,,,,,,,Arabic,,
+Panama,58,PA,"75,420",507,Panama City,,Panama City,78.3,$1.53 ,Spanish,"4,246,439",37.20%
+Papua New Guinea,20,PG,"462,840",675,Port Moresby,PGK,Port Moresby,64.3,$1.16 ,Tok Pisin,"8,776,109",37.10%
+Paraguay,18,PY,"406,752",595,Asunci??,PYG,Ciudad del Este,74.1,$1.55 ,Spanish,"7,044,636",35.00%
+Peru,26,PE,"1,285,216",51,Lima,PEN,Lima,76.5,$1.28 ,Spanish,"32,510,453",36.80%
+Philippines,368,PH,"300,000",63,Manila,PHP,Manila,71.1,$1.12 ,English,"108,116,615",43.10%
+Poland,124,PL,"312,685",48,Warsaw,PLN,Warsaw,77.6,$2.93 ,Polish,"37,970,874",40.80%
+Portugal,111,PT,"92,212",351,Lisbon,EUR,Lisbon,81.3,$3.78 ,Portuguese,"10,269,417",39.80%
+Qatar,248,QA,"11,586",974,Doha,QAR,Doha,80.1,,Arabic,"2,832,067",11.30%
+Romania,84,RO,"238,391",40,Bucharest,RON,Bucharest,75.4,$2.25 ,Romanian,"19,356,544",20.00%
+Russia,9,RU,"17,098,240",7,Moscow,RUB,Moscow,72.7,$0.53 ,Russian,"144,373,535",46.20%
+Rwanda,525,RW,"26,338",250,Kigali,RWF,Kigali,68.7,,Swahili,"12,626,950",33.20%
+Saint Kitts and Nevis,205,KN,261,1,Basseterre,XCD,Basseterre,71.3,$3.33 ,English,"52,823",49.70%
+Saint Lucia,301,LC,616,1,Castries,XCD,Castries,76.1,,English,"182,790",34.70%
+Saint Vincent and the Grenadines,284,VC,389,1,Kingstown,XCD,Calliaqua,72.4,$1.16 ,English,"100,455",37.00%
+Samoa,70,WS,"2,831",685,Apia,WST,Apia,73.2,$0.78 ,Samoan,"202,506",19.30%
+San Marino,566,SM,61,378,City of San Marino,EUR,City of San Marino,85.4,,Italian,"33,860",36.20%
+S???????????,228,ST,964,239,S????,STN,S????,70.2,,,"215,056",37.00%
+Saudi Arabia,16,SA,"2,149,690",966,Riyadh,SAR,Riyadh,75,$3.85 ,Arabic,"34,268,528",15.70%
+Senegal,87,SN,"196,722",221,Dakar,XOF,Pikine,67.7,$0.31 ,French,"16,296,364",44.80%
+Serbia,100,RS,"77,474",381,Belgrade,RSD,Belgrade,75.5,$1.57 ,Serbian,"6,944,975",36.60%
+Seychelles,214,SC,455,248,"Victoria, Seychelles",SCR,"Victoria, Seychelles",72.8,$2.00 ,French,"97,625",30.10%
+Sierra Leone,111,SL,"71,740",232,Freetown,SLL,Freetown,54.3,$0.57 ,English,"7,813,215",30.70%
+Singapore,"8,358",SG,716,65,,SGD,,83.1,,Malay,"5,703,569",21.00%
+Slovakia,114,SK,"49,035",421,Bratislava,EUR,Bratislava,77.2,$3.11 ,Slovak,"5,454,073",49.70%
+Slovenia,103,SI,"20,273",386,Ljubljana,EUR,Ljubljana,81,$5.25 ,Slovene language,"2,087,946",31.00%
+Solomon Islands,25,SB,"28,896",677,Honiara,SBD,Honiara,72.8,$0.40 ,English,"669,823",32.00%
+Somalia,25,SO,"637,657",252,Mogadishu,SOS,Bosaso,57.1,,Arabic,"15,442,905",
+South Africa,49,ZA,"1,219,090",27,Pretoria,ZAR,Johannesburg,63.9,,Afrikaans,"58,558,270",29.20%
+South Korea,527,KR,"99,720",82,Seoul,KRW,Seoul,82.6,$6.49 ,Korean,"51,709,098",33.20%
+South Sudan,18,SS,"644,329",211,Juba,SSP,Juba,57.6,,English,"11,062,113",31.40%
+Spain,94,ES,"505,370",34,Madrid,EUR,Madrid,83.3,$5.60 ,Spanish,"47,076,781",47.00%
+Sri Lanka,341,LK,"65,610",94,Colombo,LKR,Colombo,76.8,$0.35 ,Tamil,"21,803,000",55.20%
+Sudan,25,SD,"1,861,484",249,Khartoum,SDG,Omdurman,65.1,$0.41 ,Arabic,"42,813,238",45.40%
+Suriname,4,SR,"163,820",597,Paramaribo,SRD,Paramaribo,71.6,,Dutch,"581,372",27.90%
+Sweden,25,SE,"450,295",46,Stockholm,SEK,S?????,82.5,,Swedish,"10,285,453",49.10%
+Switzerland,219,CH,"41,277",41,Bern,CHF,Z???,83.6,,German,"8,574,832",28.80%
+Syria,95,SY,"185,180",963,Damascus,SYP,Damascus,71.8,$1.02 ,Arabic,"17,070,135",42.70%
+Tajikistan,68,TJ,"144,100",992,Dushanbe,TJS,Dushanbe,70.9,$0.23 ,Persian,"9,321,018",67.30%
+Tanzania,67,TZ,"947,300",255,Dodoma,TZS,Dar es Salaam,65,$0.09 ,Swahili,"58,005,463",43.80%
+Thailand,137,TH,"513,120",66,Bangkok,THB,Bangkok,76.9,$1.06 ,Thai,"69,625,582",29.50%
+East Timor,89,TL,"14,874",670,Dili,USD,Dili,69.3,$0.60 ,Portuguese,"3,500,000",17.30%
+Togo,152,TG,"56,785",228,Lom?,XOF,Lom?,60.8,$0.34 ,French,"8,082,366",48.20%
+Tonga,147,TO,747,676,Nuku????,TOP,Nuku????,70.8,,Tongan Language,"100,209",27.50%
+Trinidad and Tobago,273,TT,"5,128",1,Port of Spain,TTD,Chaguanas,73.4,$2.25 ,English,"1,394,973",40.50%
+Tunisia,76,TN,"163,610",216,Tunis,TND,Tunis,76.5,$0.47 ,Arabic,"11,694,719",60.70%
+Turkey,110,TR,"783,562",90,Ankara,TRY,Istanbul,77.4,$3.45 ,Turkish,"83,429,615",42.30%
+Turkmenistan,13,TM,"488,100",993,Ashgabat,TMT,Ashgabat,68.1,$0.88 ,Turkmen,"5,942,089",
+Tuvalu,393,TV,26,688,Funafuti,AUD,Singapore,,,Tuvaluan Language,"11,646",
+Uganda,229,UG,"241,038",256,Kampala,UGX,Buganda,63,$0.01 ,Swahili,"44,269,594",33.70%
+Ukraine,75,UA,"603,550",380,Kyiv,UAH,Kyiv,71.6,$0.84 ,Ukrainian,"44,385,155",45.20%
+United Arab Emirates,118,AE,"83,600",971,Abu Dhabi,AED,Dubai,77.8,,Arabic,"9,770,529",15.90%
+United Kingdom,281,GB,"243,610",44,London,GBP,London,81.3,$10.13 ,English,"66,834,405",30.60%
+United States,36,US,"9,833,517",1,"Washington, D.C.",USD,New York City,78.5,$7.25 ,None,"328,239,523",36.60%
+Uruguay,20,UY,"176,215",598,Montevideo,UYU,Montevideo,77.8,$1.66 ,Spanish,"3,461,734",41.80%
+Uzbekistan,79,UZ,"447,400",998,Tashkent,UZS,Tashkent,71.6,$0.24 ,Uzbek,"33,580,650",31.60%
+Vanuatu,25,VU,"12,189",678,Port Vila,VUV,Port Vila,70.3,$1.56 ,French,"299,882",8.50%
+Venezuela,32,VE,"912,050",58,Caracas,VED,Caracas,72.1,$0.01 ,Spanish,"28,515,829",73.30%
+Vietnam,314,VN,"331,210",84,Hanoi,VND,Ho Chi Minh City,75.3,$0.73 ,Vietnamese,"96,462,106",37.60%
+Yemen,56,YE,"527,968",967,Sanaa,YER,Sanaa,66.1,,Arabic,"29,161,922",26.60%
+Zambia,25,ZM,"752,618",260,Lusaka,ZMW,Lusaka,63.5,$0.24 ,English,"17,861,030",15.60%
+Zimbabwe,38,ZW,"390,757",263,Harare,,Harare,61.2,,Shona,"14,645,468",31.60%

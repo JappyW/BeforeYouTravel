@@ -43,19 +43,31 @@ export type GlobeCircleSelection = Selection<
     undefined
 >;
 
-export interface ProjectionConfig {
-    svgRef: React.RefObject<SVGSVGElement>;
-    countries: CountriesFeatures;
-    scale: number;
-    cx: number;
-    cy: number;
+export interface GlobeProps {
+    countries: CountryFeature[];
+    className?: string;
     rotateX?: number;
     rotateY?: number;
     rotateZ?: number;
+    width?: number;
+    height?: number;
     rotation?: Rotation;
-    dragSensitivity?: number;
     minScroll?: number;
     maxScroll?: number;
+    dragSensitivity?: number;
+    scale?: number;
+    handleCountryClick: (country: CountryFeature) => void
+    selectedCountry?: string | number;
+}
+
+export interface InitialGlobeProps {
+    width: number;
+    height: number;
+    rotation: Rotation;
+    minScroll: number;
+    maxScroll: number;
+    dragSensitivity: number;
+    scale: number;
 }
 
 export type CountriesCSVColumns = 'id' | 'name' | 'latitude' | 'longitude';
@@ -81,3 +93,24 @@ export interface ZoomBehaviourParams extends Helper {
 export interface DragBehaviourParams extends Helper {
     sensitivity: number;
 }
+
+export interface ICountryInfo {
+    name: string;
+    id: string | number;
+    area: number;//km2
+    capital: string;
+    language: string;
+    population: number;
+    largestCity: string;
+    density: number;//P/km2
+    abbreviation: string;
+    currencyCode: string;
+    callingCode: string;
+    lifeExpectancy: number;
+    minimumWageInDollars: number;
+    taxRate: number;//%
+    images: string[];
+}
+
+export type CountryInfoTitleKey = Omit<ICountryInfo, "id" | "images" | "abbreviation">;
+

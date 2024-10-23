@@ -66,14 +66,20 @@ const getCountries = async (): Promise<CountryFeature[]> => {
     ]);
 
     //map properties to features
-    return features.map(feature => {
+    const countries = features.reduce<CountryFeature[]>((acc, feature) => {
         const countryProperties = properties.find(p => p.id === feature.id);
 
-        return {
-            ...feature,
-            properties: countryProperties || notFoundCountry
+        if (countryProperties?.name) {
+            acc.push({
+                ...feature,
+                properties: countryProperties || notFoundCountry
+            })
         }
-    })
+
+        return acc;
+    }, []);
+
+    return countries.sort((a, b) => a.properties.name.localeCompare(b.properties.name))
 }
 
 export const useCountries = () => {

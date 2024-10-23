@@ -1,0 +1,1 @@
+export const ROTATION_DURATION = 1000;
