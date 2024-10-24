@@ -9,7 +9,7 @@ export interface Colors {
 function createScheme(
   countryColor: Color,
   countryHoverColor: Color,
-  oceanColor: Color
+  oceanColor: Color,
 ): Colors {
   return {
     countryColor,

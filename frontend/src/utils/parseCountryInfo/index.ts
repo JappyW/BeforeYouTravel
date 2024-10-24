@@ -1,13 +1,13 @@
-import { CountryInfoTitleKey, ICountryInfo } from "../../types";
+import { ICountryData } from "../../types";
 
 type CountryInfoParsed = {
-    key: keyof CountryInfoTitleKey, value: string | number | string[]
+    key: keyof ICountryData, value: string | number | string[]
 }
 
 const AVOID_KEYS = ['images', 'id', 'abbreviation']
 
-export const parseCountryInfo = (countryInfo: ICountryInfo) => {
-    const keys = Object.keys(countryInfo) as (keyof CountryInfoTitleKey)[];
+export const parseCountryInfo = (countryInfo: ICountryData) => {
+    const keys = Object.keys(countryInfo) as (keyof ICountryData)[];
 
     return keys.reduce<CountryInfoParsed[]>((acc, key) => {
         if (!AVOID_KEYS.includes(key)) {
@@ -28,7 +28,7 @@ const CountryInfoValueMap = {
     'minimumWageInDollars': "$"
 }
 
-const parseCountryInfoValue = (key: keyof CountryInfoTitleKey, value: string | number) => {
+const parseCountryInfoValue = (key: keyof ICountryData, value: string | number) => {
     if (VALUES_WITH_MEASUREMENTS.includes(key)) {
         return `${value} ${CountryInfoValueMap[key as CountryInfoValueMeasurementType]}`
     }

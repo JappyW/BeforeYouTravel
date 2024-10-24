@@ -1,9 +1,10 @@
-import { CountryInfoTitleKey } from "../../types";
+import { ICountryData } from "../../types";
 
-const keyToTitle = {
+const keyToTitle: Record<keyof ICountryData, string> = {
     name: "Name",
     density: "Density",
     area: "Area",
+    abbreviation: "Abbreviation",
     minimumWageInDollars: "Minimum Wage",
     capital: "Capital",
     callingCode: "Calling Code",
@@ -15,6 +16,6 @@ const keyToTitle = {
     taxRate: "Tax Rate",
 }
 
-export const transformCountryInfoKeyToTitle = (key: keyof CountryInfoTitleKey) => {
+export const transformCountryInfoKeyToTitle = (key: keyof ICountryData) => {
     return keyToTitle[key];
 }
