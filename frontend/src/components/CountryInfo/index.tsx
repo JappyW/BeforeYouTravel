@@ -1,9 +1,20 @@
-import { ExpandMore as ExpandMoreIcon } from '@mui/icons-material';
+import {
+  BorderBottom,
+  Check,
+  DoNotDisturb,
+  ExpandMore as ExpandMoreIcon,
+} from '@mui/icons-material';
 import {
   Accordion,
   AccordionDetails,
+  AccordionSlots,
   AccordionSummary,
+  Fade,
   Grid,
+  List,
+  ListItem,
+  ListItemIcon,
+  ListItemText,
   styled,
   Typography,
 } from '@mui/material';
@@ -13,10 +24,13 @@ import TableCell from '@mui/material/TableCell';
 import TableContainer from '@mui/material/TableContainer';
 import TableRow from '@mui/material/TableRow';
 import { useMemo } from 'react';
+import { countriesGoodManners } from '../../constants/countriesGoodManners';
+import { countriesBadManners } from '../../constants/countryBadManners';
 import { countryData } from '../../constants/countryData';
 import { CountryName } from '../../types/countryKeys';
 import { parseCountryInfo } from '../../utils/parseCountryInfo';
 import { transformCountryInfoKeyToTitle } from '../../utils/transformCountryInfoKeyToTitle';
+import { CountryFacts } from '../../constants/countryFacts';
 
 const StyledTableCell = styled(TableCell)(({ theme }) => ({
   padding: '4px',
@@ -33,6 +47,21 @@ const StyledTableRow = styled(TableRow)(({ theme }) => ({
   // hide last border
   '&:last-child td, &:last-child th': {
     border: 0,
+  },
+}));
+
+const StyledListItem = styled(ListItem)(({ theme }) => ({
+  backgroundColor: theme.palette.primary.main,
+  fontSize: 14,
+  color: theme.palette.text.primary,
+  borderBottom: '1px solid #c4c4c4',
+
+  '&:nth-of-type(odd)': {
+    backgroundColor: theme.palette.secondary.main,
+  },
+
+  '&:first-child': {
+    borderTop: '1px solid #c4c4c4',
   },
 }));
 
@@ -63,13 +92,34 @@ export const CountryInfo = ({
   // });
 
   const countryInfo = useMemo(() => {
-    if (name) {
-      return countryData[name];
+    if (!name) {
+      return;
     }
-    return;
+    return countryData[name];
   }, [name]);
 
-  if (!countryInfo) {
+  const countryDos = useMemo(() => {
+    if (!name) {
+      return;
+    }
+    return countriesGoodManners[name];
+  }, [name]);
+
+  const countryDonts = useMemo(() => {
+    if (!name) {
+      return;
+    }
+    return countriesBadManners[name];
+  }, [name]);
+
+  const facts = useMemo(() => {
+    if (!name) {
+      return;
+    }
+    return CountryFacts[name];
+  }, [name]);
+
+  if (!countryInfo || !countryDos || !countryDonts || !facts) {
     return;
   }
 
@@ -81,8 +131,6 @@ export const CountryInfo = ({
       sx={{
         display: 'flex',
         flexDirection: 'column',
-        overflowY: 'auto',
-        height: '100vh',
         width: { xs: '100vw', md: '50vw' },
       }}
     >
@@ -122,19 +170,63 @@ export const CountryInfo = ({
                 </ImageListItem>
             ))}
         </ImageList> */}
-      <Accordion>
-        <AccordionSummary
-          expandIcon={<ExpandMoreIcon />}
-          aria-controls='panel1-content'
-          id='panel1-header'
-        >
+      <section>
+        <Typography variant='h4' component='p'>
           Facts
-        </AccordionSummary>
-        <AccordionDetails>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse
-          malesuada lacus ex, sit amet blandit leo lobortis eget.
-        </AccordionDetails>
-      </Accordion>
+        </Typography>
+        <List>
+          {facts.map(fact => {
+            return (
+              <StyledListItem>
+                <ListItemText primary={fact} />
+              </StyledListItem>
+            );
+          })}
+        </List>
+      </section>
+      <section>
+        Good manners
+        <List>
+          {countryDos.map(dos => {
+            return (
+              <StyledListItem>
+                <ListItemIcon>
+                  <Check />
+                </ListItemIcon>
+                <ListItemText primary={dos} />
+              </StyledListItem>
+            );
+          })}
+        </List>
+      </section>
+      <section>
+        <Typography variant='h4' component='p'>
+          Bad manners
+        </Typography>
+        <Accordion>
+          <AccordionSummary
+            expandIcon={<ExpandMoreIcon />}
+            aria-controls='country-donts'
+            id='country-donts'
+          >
+            Dont's
+          </AccordionSummary>
+          <AccordionDetails>
+            <List>
+              {countryDonts.map(donts => {
+                return (
+                  <ListItem>
+                    <ListItemIcon>
+                      <DoNotDisturb />
+                    </ListItemIcon>
+                    <ListItemText primary={donts} />
+                  </ListItem>
+                );
+              })}
+            </List>
+          </AccordionDetails>
+        </Accordion>
+      </section>
     </Grid>
   );
 };

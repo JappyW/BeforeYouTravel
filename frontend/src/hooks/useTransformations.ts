@@ -118,10 +118,11 @@ export const dragRectangularProjection = ({
       const rotation: Rotation = [rotationX + event.dx * k, rotationY];
       projection.rotate(rotation);
 
+      //just a random value that feels good
       if (translateY > 600 + projection.scale()) {
         projection.translate([translateX, 600 + projection.scale()]);
-      } else if (translateY < 0 - projection.scale()) {
-        projection.translate([translateX, 0 - projection.scale()]);
+      } else if (translateY < 200 - projection.scale()) {
+        projection.translate([translateX, 200 - projection.scale()]);
       } else {
         projection.translate([translateX, translateY + event.dy]);
       }
